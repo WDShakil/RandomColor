@@ -238,3 +238,5 @@ colorbtn.addEventListener("click", function () {
   colorbtn.style.backgroundColor = `rgb(${r},${g},${b})`;
 });
 ```
+
+<img src="screencapture.png">
